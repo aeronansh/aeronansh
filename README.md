@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning & AI**
+- 🌱 I’m currently learning **three.js, Machine Learning & AI**
 
 - 📝 I regularly write articles on [https://www.gamingwithtechnology.com/](https://www.gamingwithtechnology.com/)
 
